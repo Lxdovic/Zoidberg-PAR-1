@@ -7,3 +7,6 @@
 [submodule "submodules/LogisticRegression"]
 	path = submodules/LogisticRegression
 	url = https://github.com/JohnARI/zoidberg
+[submodule "submodules/ConvolutionalNeuralNetwork"]
+	path = submodules/ConvolutionalNeuralNetwork
+	url = git@github.com:BilalEpit/Zozo.git
