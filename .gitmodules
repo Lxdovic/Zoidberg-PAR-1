@@ -1,0 +1,3 @@
+[submodule "submodules/PerceptronAndMLP"]
+	path = submodules/PerceptronAndMLP
+	url = https://github.com/Lxdovic/Epitech-Zoidberg
