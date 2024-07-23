@@ -1,3 +1,6 @@
 [submodule "submodules/PerceptronAndMLP"]
 	path = submodules/PerceptronAndMLP
 	url = https://github.com/Lxdovic/Epitech-Zoidberg
+[submodule "submodules/PseudoResNet"]
+	path = submodules/PseudoResNet
+	url = https://github.com/LeguyDany/zoidberg-image-recognition.git
