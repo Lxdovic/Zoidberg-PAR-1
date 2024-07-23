@@ -4,3 +4,6 @@
 [submodule "submodules/PseudoResNet"]
 	path = submodules/PseudoResNet
 	url = https://github.com/LeguyDany/zoidberg-image-recognition.git
+[submodule "submodules/LogisticRegression"]
+	path = submodules/LogisticRegression
+	url = https://github.com/JohnARI/zoidberg
